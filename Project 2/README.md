@@ -1,7 +1,7 @@
 # Project 2 Instructions - MIPS Basics
 
 ## Objective
-* Practice MIPS load/store, integer expressions, and SYSCALLs.
+* Practice MIPS load/store, integer expressions, and SYSCALLs
 
 ## Details
 * In the `.data` section
