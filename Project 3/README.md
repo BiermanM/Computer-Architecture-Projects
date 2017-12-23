@@ -1,7 +1,7 @@
 # Project 3 Instructions - MIPS Control Structures
 
 ## Objective
-* Practice MIPS loops, conditionals, procedures, and dialog SYSCALLs.
+* Practice MIPS loops, conditionals, procedures, and dialog SYSCALLs
 
 ## Details
 * Use the dialog `syscall` (#54) to input a string from the user
