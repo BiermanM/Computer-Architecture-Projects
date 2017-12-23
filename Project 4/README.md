@@ -9,7 +9,7 @@
 * The variable `BMI` can be single or double precision
 
 ## C++ Code
-```
+```cpp
 #include <iostream>
 #include <string>
 
