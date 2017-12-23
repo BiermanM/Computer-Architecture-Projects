@@ -1,7 +1,7 @@
 # Project 4 Instructions - BMI Calculator
 
 ## Objective
-* The purpose of this assignment is to practice MIPS programming with arithmetic operations. 
+* The purpose of this assignment is to practice MIPS programming with arithmetic operations
 
 ## Detail
 * Write a MIPS program that calculates BMI
